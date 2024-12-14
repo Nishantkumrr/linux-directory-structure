@@ -24,5 +24,5 @@
 │   └── local   # लोकल इंस्टॉलेशन के लिए स्पेस
 ├── var         # वेरिएबल डेटा फाइल्स (e.g., logs, spool)
 
-![S](image.png)
+                   [S](image.png)
 
