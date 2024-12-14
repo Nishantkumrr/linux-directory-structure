@@ -23,6 +23,4 @@
 │   ├── share   # आर्किटेक्चर-स्वतंत्र डेटा (e.g., man pages, icons)
 │   └── local   # लोकल इंस्टॉलेशन के लिए स्पेस
 ├── var         # वेरिएबल डेटा फाइल्स (e.g., logs, spool)
-
-                    ![alt text](image.png)
-
+![alt text](image-2.png)
