@@ -24,5 +24,3 @@
 │   └── local   # लोकल इंस्टॉलेशन के लिए स्पेस
 ├── var         # वेरिएबल डेटा फाइल्स (e.g., logs, spool)
 
-
-https://www.google.com/imgres?q=linux%20%20%20%20%2F%20%20%20%20%20%20%20directory%20structure%20image%20&imgurl=https%3A%2F%2Flinuxhandbook.com%2Fcontent%2Fimages%2F2020%2F06%2Flinux-directory-structure.png&imgrefurl=https%3A%2F%2Flinuxhandbook.com%2Flinux-directory-structure%2F&docid=h-FC2xMIxc4S_M&tbnid=LFSgrDXCHQ2lNM&vet=12ahUKEwi_09ncsKeKAxVqUGwGHTLmJAMQM3oECBYQAA..i&w=800&h=400&hcb=2&ved=2ahUKEwi_09ncsKeKAxVqUGwGHTLmJAMQM3oECBYQAA
